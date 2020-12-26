@@ -255,6 +255,7 @@ namespace sub::TeleportLocations_catind
 			TeleLocation("Altruist Cult Camp", -1170.841f, 4926.646f, 224.295f),
 			TeleLocation("Calafia Train Bridge", -517.869f, 4425.284f, 89.795f),
 			TeleLocation("Cargo Ship", 899.678f, -2882.191f, 19.013f),
+			TeleLocation("Cayo Perico Island", 4494.252f, -4510.028f, 4.190997f),
 			TeleLocation("Chumash Historic Family Pier", -3426.683f, 967.738f, 8.347f),
 			TeleLocation("Del Perro Pier", -1850.127f, -1231.751f, 13.017f),
 			TeleLocation("Devin Weston's House", -2639.872f, 1866.812f, 160.135f),
